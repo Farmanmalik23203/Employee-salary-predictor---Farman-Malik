@@ -4,7 +4,7 @@ This project predicts employee salary classes using a machine learning classific
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 - **Objective**: To build a machine learning model that predicts the salary class of an employee based on features like age, workclass, marital status, gender, occupation, and native country.
 - **Algorithm Used**: Gradient Boosting Classifier
@@ -12,7 +12,7 @@ This project predicts employee salary classes using a machine learning classific
 
 ---
 
-## 🧠 Features Used for Prediction
+##  Features Used for Prediction
 
 - Age  
 - Workclass  
@@ -32,7 +32,7 @@ These features were preprocessed and encoded appropriately before being fed into
 | Data Cleaning & EDA         | Pandas, NumPy     |
 | Visualization               | Matplotlib, Seaborn |
 | Model Training              | Scikit-learn      |
-| Serialization               | Pickle            |
+| Serialization               | Joblib           |
 | Web Application             | Streamlit         |
 | Deployment                  | ngrok / Grok      |
 | Notebook Environment        | Google Colab      |
